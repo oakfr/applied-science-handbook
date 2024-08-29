@@ -15,17 +15,12 @@ In the end, this is not only about efficiency.  It's about building better relat
 
 A few things you should be doing to make your team efficient: 
 
-    Share information, early and consistently 
-
-    Build a rock-solid infrastructure 
-
-    Write things down, early and consistently 
-
-    Pair engineers and researchers to maintain a continuous alignment 
-
-    Use the same codebase for research and production 
-
-    Make things reproducible 
+- Share information, early and consistently 
+- Build a rock-solid infrastructure 
+- Write things down, early and consistently 
+- Pair engineers and researchers to maintain a continuous alignment 
+- Use the same codebase for research and production 
+- Make things reproducible 
 
  
 
