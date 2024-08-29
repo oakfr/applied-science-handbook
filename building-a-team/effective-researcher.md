@@ -1,4 +1,4 @@
-# The effective research
+# The effective researcher
 
 This chapter enters a deep discussion into what is AI Research and the meaning of our work. 
 
