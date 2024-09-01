@@ -8,19 +8,15 @@ Performance review is a singular moment in the year. Things are said that someti
 
  
 
-We divide this chapter into three sections: 
-
- 
+We divide this chapter into three sections:
 
 1. The core principles 
-
 2. The preparation time 
-
 3. The delivery time 
 
  
 
-1. The core principles 
+## 1. The core principles 
 
  
 
@@ -40,7 +36,7 @@ Be teachable: No matter how well you did over the period, your manager will have
 
  
 
-2. The preparation time 
+## 2. The preparation time 
 
  
 
@@ -72,7 +68,7 @@ Dedicate time to difficult situations. Well in advance, think hard about the peo
 
  
 
-3. The delivery time 
+## 3. The delivery time 
 
  
 
