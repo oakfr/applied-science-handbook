@@ -1,6 +1,6 @@
 # The high road of performance reviews
 
-*“People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” *
+*“People will forget what you said, people will forget what you did, but people will never forget how you made them feel.”*
 
  
 
