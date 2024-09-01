@@ -1,3 +1,5 @@
+# Slow is smooth, smooth is fast
+
 There is a well-known saying in the Navy SEALS which goes like this: slow is smooth, smooth is fast.  The first time I read this sentence, it did not make any sense to me.  Those who go to the Navy learn it quickly and the hard way.  The others (like me) also learn it, but much more slowly and over many years of experience. 
 
 

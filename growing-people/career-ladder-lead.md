@@ -1,3 +1,5 @@
+# Career ladder for the Applied Science Lead
+
 The goal of this document is to lay out a clear and simple career path for Applied Scientists Lead. We build this career path on the same premise as the Applied Scientist one: the gist of the career path is defined by the scale of your work, keeping in mind that your mission, at any level, is to impact customers in a significant and positive way. Each step in the ladder should correspond to a significant change in scale.
 
 We therefore build the career path on the same foundation as the scale of Applied Scientists. The career path of a lead differs from that of an IC, however, as we will see in the rest of this document.

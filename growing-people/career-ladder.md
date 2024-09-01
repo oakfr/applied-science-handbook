@@ -1,3 +1,5 @@
+# Career ladder for the Applied Scientist
+
 Everyone in their career is looking for a clear career path. Over the years, I discovered that building a clear, simple and actionable career path for applied scientists was hard. I spent a significant amount thinking about it and came up with the one described in this chapter. It is currently in use at Onfido. 
 
  

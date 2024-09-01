@@ -1,3 +1,5 @@
+# Rewarding your heroes
+
 Many years ago, I was part of a team that built one of the first autonomous cars in the world.
 
 The team was created to enter the now famous DARPA Urban Challenge.
