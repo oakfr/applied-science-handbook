@@ -22,7 +22,7 @@ This chapter aims at helping you get started and being the best possible team le
 
  
 
-Build and repeat the vision 
+## Build and repeat the vision 
 
  
 
@@ -64,7 +64,7 @@ Building a vision is easy. Building a compelling one is hard. Here are a few tip
 
  
 
-Learn to delegate 
+## Learn to delegate 
 
  
 
@@ -86,7 +86,7 @@ One of the main mental shifts you will need to do becoming a lead will be to lea
 
  
 
-Build team motivation 
+## Build team motivation 
 
  
 
@@ -134,7 +134,7 @@ In the end, you are dealing with people. Getting a sense of their inner motivati
 
  
 
-Use Non-violent communication 
+## Use Non-violent communication 
 
  
 
@@ -152,7 +152,7 @@ As an employee, for example, you might find it a lot simpler to enter a performa
 
  
 
-Seek feedback (a lot of it) 
+## Seek feedback (a lot of it) 
 
  
 
@@ -182,7 +182,7 @@ The main process of learning is feedback. You need feedback to know what you are
 
  
 
-Read books 
+# Read books 
 
  
 
@@ -214,7 +214,7 @@ And if you have a lot of time in front of you, the bookshelf of Patrick Collison
 
  
 
-Handle bad stuff directly 
+## Handle bad stuff directly 
 
  
 
@@ -236,7 +236,7 @@ At some point during your experience as a lead, you will hit some headwinds. Thi
 
  
 
-Build career paths 
+## Build career paths 
 
  
 
@@ -278,7 +278,7 @@ As a lead, you will be expected to build a career path for each of your team mem
 
  
 
-Run efficient 1-1 meetings 
+## Run efficient 1-1 meetings 
 
  
 
@@ -320,7 +320,7 @@ One-on-one meetings are going to be part of your new kernel as a lead. If you ar
 
  
 
-Take some time off 
+## Take some time off 
 
  
 
@@ -328,7 +328,7 @@ Seriously, it's exhausting. Pace yourself. Chill. Watch movies. Work out. Find w
 
  
 
-Conclusion 
+## Conclusion 
 
  
 
