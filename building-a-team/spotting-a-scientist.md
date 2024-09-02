@@ -1,6 +1,6 @@
 # How to spot a great scientist in 3 minutes!
 
-The previous section described a detailed process for hiring applied scientists. Yet, sometimes, you also need to make an on-the-spot judgment call as to whether a candidate would be worthy of your time, e.g. meeting someone at random during a conference. 
+Sometimes, you need to make an on-the-spot judgment call as to whether a candidate would be worthy of your time, e.g. meeting someone at random during a conference. 
 
  
 
@@ -8,7 +8,7 @@ The candidate might be boasting a great publication track record, an amazing Kag
 
  
 
-In my opinion, there are three traits that you should be looking for: curiosity, resilience, and an open mind.  
+In my opinion, there are three traits that you should be looking for: *curiosity, resilience, and an open mind*.  
 
  
 
@@ -46,16 +46,9 @@ This is just one data point, but I found this approach to work well over time. A
 
 This question is powerful, for three reasons: 
 
- 
 
 1. It brings the best out of the candidate, no matter what their background is. If I’m not convinced by the answer, there is little chance I’d be convinced by something else. 
-
- 
-
 2. It makes for a truly genuine and interesting discussion. I often find myself discovering surprising things while interviewing candidates this way. 
-
- 
-
 3. It is hard to game. Applied AI involves many areas across machine learning, statistics, distributed computing and software engineering. Being able to handle a deep conversation across these domains matters. 
 
  

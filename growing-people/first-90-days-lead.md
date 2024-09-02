@@ -1,5 +1,12 @@
 # Your first 90 days as a lead
 
+
+At some point in a scientist’s career, the opportunity shows up to take on a team leadership position. This role is not for everyone.  Therefore, it is useful for people to get a sense of what the role is about and how to be successful at it. 
+
+ 
+
+This chapter aims at helping you get started and being the best possible team lead from day one. One of the main novelties that you will encounter as a lead is about people management. I, therefore, focus on this aspect here and assume that you will be handling the technical side of things well -- like you've been doing so far! 
+
 Take-aways:
 
 - Build and repeat the vision 
@@ -12,14 +19,6 @@ Take-aways:
 - Build career paths 
 - Run efficient 1-1 meetings 
 - Take some time off 
-
-
-At some point in a scientist’s career, the opportunity shows up to take on a team leadership position. This role is not for everyone.  Therefore, it is useful for people to get a sense of what the role is about and how to be successful at it. 
-
- 
-
-This chapter aims at helping you get started and being the best possible team lead from day one. One of the main novelties that you will encounter as a lead is about people management. I, therefore, focus on this aspect here and assume that you will be handling the technical side of things well -- like you've been doing so far! 
-
  
 
 ## Build and repeat the vision 
@@ -182,7 +181,7 @@ The main process of learning is feedback. You need feedback to know what you are
 
  
 
-# Read books 
+## Read books 
 
  
 
