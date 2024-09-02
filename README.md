@@ -26,10 +26,10 @@ Fasten your seat belt, and read on!
 - Deliver for the Product
     - [Making your company ML-centric](deliver-for-the-product/ml-centric.md)
     - [The seven pillars of Applied AI](deliver-for-the-product/seven-pillars.md)
-    - [The Six-Week Rule](deliver-for-the-product/six-week-rule.md)
+    - [The six-week rule](deliver-for-the-product/six-week-rule.md)
 - Growing people
-    - [The Applied Scientist Career Ladder](growing-people/career-ladder.md)
-    - [The Applied Scientist Lead Career Ladder](growing-people/career-ladder-lead.md)
+    - [The Applied Scientist career ladder](growing-people/career-ladder.md)
+    - [The Applied Scientist Lead career ladder](growing-people/career-ladder-lead.md)
     - [Your first 90 as a lead](growing-people/first-90-days-lead.md)
     - [On promotions](growing-people/on-promotions.md)
     - [On performance reviews](growing-people/performance-reviews.md)
