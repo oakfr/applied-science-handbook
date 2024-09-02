@@ -158,13 +158,13 @@ Each Applied Scientist should be able to self-introspect and build their own pro
 
  
 1. Impact was measured 
-- E.g.: successful AB test on a proposed improvement, experiment time reduction through ML, rescuing value at risk for a client through an ad-hoc effort 
-- Value: the measured impact 
+    * E.g.: successful AB test on a proposed improvement, experiment time reduction through ML, rescuing value at risk for a client through an ad-hoc effort 
+    * Value: the measured impact 
 
 2. Impact to be measured soon 
-- E.g.: solution improvement in progress, offline results promising, preparing for A/B test 
-- Value: zero yet, just wait for measurement to earn credit 
+    * E.g.: solution improvement in progress, offline results promising, preparing for A/B test 
+    * Value: zero yet, just wait for measurement to earn credit 
 
 3. Impact not measurable soon
-- E.g.: publish paper at a top conference, became go-to person for ML questions, team spirit behaviour, growth mindset, being autonomous (hence increasing effort capacity of the Applied Science team), etc. 
-- Value: the only thing we can do here is align between leads on the relative value of each of those efforts compared to the measured impact and be explicit about it. This is where we shape the incentives for applied scientists to decide where they want to put their effort. 
+    * E.g.: publish paper at a top conference, became go-to person for ML questions, team spirit behaviour, growth mindset, being autonomous (hence increasing effort capacity of the Applied Science team), etc. 
+    * Value: the only thing we can do here is align between leads on the relative value of each of those efforts compared to the measured impact and be explicit about it. This is where we shape the incentives for applied scientists to decide where they want to put their effort. 
