@@ -88,8 +88,9 @@ From a practical perspective, here are the drivers that an Applied Scientist dev
 
  
 
-| Technical Drivers | Research Drivers |
+| Drivers |
 | ----------------- | ---------------- |
+| Technical Drivers | Research Drivers |
 | Computer vision <br> Machine learning <br> Statistics <br> Coding | Ability to conduct independent research (find & generate ideas) <br> Ability to explore (breadth & depth)<br> Presentation and writing <br> Structured thinking (how to split a problem into sub-problems) <br> |
 | **Product and Delivery** | **People Drivers** |
 | Deploying & monitoring ML systems <br> Product, market and customers understanding <br> The hacker mindset <br> The finisher mindset <br> Make your work known (buzz) | Working in a cross-functional environment <br> Willingness to learn & teach (mentoring) <br> Courage to challenge others and to be challenged <br> Self-introspection |
