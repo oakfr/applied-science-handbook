@@ -26,4 +26,4 @@ A few things you should be doing to make your team efficient:
 
  
 
-“Early in my career as an engineer, I’d learned that all decisions were objective until the first line of code was written. After that, all decisions were emotional.” Ben Horowitz, The Hard Thing About Hard Things 
+*“Early in my career as an engineer, I’d learned that all decisions were objective until the first line of code was written. After that, all decisions were emotional.”* Ben Horowitz, The Hard Thing About Hard Things 
