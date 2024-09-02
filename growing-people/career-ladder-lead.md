@@ -74,32 +74,3 @@ The core impact drivers of a lead build on top of those of an applied scientists
 The career ladder and impact drivers should be the scaffolding to help you grow in your career as an Applied Scientist Lead. For the sake of clarity, we do not map each driver to each level. Each individual may find various ways of leveraging these drivers to unlock a given level. However, all these drivers are critical for an Applied Scientist Lead. In the end, we should be able to build a curriculum that helps everyone develop them. A lot of it comes from practice with more experienced colleagues (hence the focus on mentoring/coaching). But we should also provide resources such as internal and external training, reading lists, etc. 
 
 Each Applied Scientist should be able to self-introspect and build their own profile. This would help them identify their strengths and weaknesses, which would in turn help them build a plan with their manager to move from one level to the next.
-
-
-
-How we define and measure impact
-Good Applied Science at Onfido = Impactful Applied Science: Effort is eventually materialised into an uplift in the Company North Star KPI and related metrics
-
-Time to Impact matters: for each effort there is a time span until tangible impact is observed. As long as impact is not observed there is uncertainty by definition, and the value of the effort should be discounted accordingly. We propose the following categories:
-
-Impact was measured
-E.g.: successful abtest on a proposed improvement, experiment time reduction through automation, rescuing value at risk for a client through an ad-hoc effort
-Value: the measured impact
-Impact to be measured soon
-E.g.: solution improvement in progress, offline results promising, preparing for A/B test
-Value: zero yet, just wait for measurement to earn credit
-Impact not measurable soon
-E.g.: publish paper at NeurIPS, became go-to person for looker questions, team spirit behaviour, growth mindset, being autonomous (hence increasing effort capacity of AS team), etc.
-Value: TBD. the only thing we can do here is align between leads on the relative value of each of those efforts compared to the measured impact, and be explicit about it. This is where we shape the incentives for applied scientists to decide where they want to put their effort.
-
-
-About Onfido values
-In the Applied Science team, we operate along the Onfido values like every other team: Succeed Together, Customer Buzz, Take Pride, Learn Things Share Them, Find a Better Way.
-
-However we look at them through a higher-level lens by asking ourselves a simple question: do you care?
-
-Do you care about your colleagues?
-Do you care about our customers?
-Do you care about the ML community?
-Do you care about yourself?
- This lens is particularly powerful, because it is easy to frame and to answer by example, while being open to a large variety of ways to impact Onfido.
