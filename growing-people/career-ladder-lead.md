@@ -4,8 +4,8 @@ The goal of this document is to lay out a clear and simple career path for Appli
 
 We therefore build the career path on the same foundation as the scale of Applied Scientists. The career path of a lead differs from that of an IC, however, as we will see in the rest of this document.
 
-| | Position (IC) | Position (Lead) | Scale of your ownership/impact |
-| ---------| ------ | ------------------------ | 
+|   | Position (IC) | Position (Lead) | Scale of your ownership/impact |
+| - | ------------- | --------------- | ------------------------------ | 
 | S1       | Applied Scientist | | Solution that show value under supervision |
 | S2  | Applied Scientist 2 | | New solution end-to-end in full autonomy |
 | S3 | Senior Applied Scientist | Applied Science Lead | Solution at the scale of a product |
