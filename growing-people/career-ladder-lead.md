@@ -65,54 +65,12 @@ The core impact drivers of a lead build on top of those of an applied scientists
 |  |  |
 | ----------------- | ---------------- |
 | **Technical Drivers** | **Research Drivers** |
-| *Computer vision* <br> *Machine learning* <br> *Statistics* <br> *Coding* <br> <br>Solid foundations on the above | *Ability to conduct independent research (find and generate ideas)* <br> *Ability to explore (breadth and depth)*<br> *Presentation and writing* <br> *Structured thinking (how to split a problem into sub-problems)* <br><br> Raise the bar for your team. Ask hard questions and follow-through. <br> Lead by example in your own writing and presentations.<br> Lead a research topic yourself and show creativity <br> Watch the scientific space<br> Contribute to the community: talks, publications, open-source
-|
+| *Computer vision* <br> *Machine learning* <br> *Statistics* <br> *Coding* <br> <br>Solid foundations on the above | *Ability to conduct independent research (find and generate ideas)* <br> *Ability to explore (breadth and depth)*<br> *Presentation and writing* <br> *Structured thinking (how to split a problem into sub-problems)* <br><br> Raise the bar for your team. Ask hard questions and follow-through. <br> Lead by example in your own writing and presentations.<br> Lead a research topic yourself and show creativity <br> Watch the scientific space<br> Contribute to the community: talks, publications, open-source |
 | **Product and Delivery** | **People Drivers** |
-| Deploying & monitoring ML systems <br> Product, market and customers understanding <br> The hacker mindset <br> The finisher mindset <br> Make your work known (buzz) | Working in a cross-functional environment <br> Willingness to learn & teach (mentoring) <br> Courage to challenge others and to be challenged <br> Self-introspection |
- 
+| *Deploying & monitoring ML systems* <br> *Product, market and customers understanding* <br> *The hacker mindset* <br> *The finisher mindset* <br> *Make your work known (buzz)* <br><br> Build a strategic understanding of the product <br> Go deep into the product understanding<br>Monitor the product yourself, look at the data<br>Follow the market. Read the trends.<br>Learn to sell the work of your team.<br>Impact the industry through leading publications/interventions<br> | *Working in a cross-functional environment* <br> *Willingness to learn & teach (mentoring)* <br> *Courage to challenge others and to be challenged* <br> *Self-introspection* <br><br> Build/develop the career path for your team<br>Define a promotion strategy for your team members<br>Show genuine interest in your time. Provide regular and constructive feedback.<br> Delegate regularly and effectively.<br>Hire top talents.|
 
-Technical Drivers
-Research Drivers
-For Applied Scientists
-Computer vision
-Machine learning
-Statistics
-Coding
-For Leads
-Solid foundations on the above
-For Applied Scientists
-Ability to conduct independent research (find & generate ideas)
-Ability to explore (breadth & depth)
-Presentation and writing
-Structured thinking (how to split a problem into sub-problems)
-For Leads
 
-Product and Delivery	People Drivers
-For Applied Scientists
-Deploying & monitoring ML systems
-Product, market and customers understanding
-The hacker mindset
-The finisher mindset
-Make your work known (buzz)
-For Leads
-Build a strategic understanding of the product
-Go deep into the product understanding
-Monitor the product yourself, look at the data
-Follow the market. Read the trends.
-Learn to sell the work of your team.
-Impact the industry through leading publications/interventions
-For Applied Scientists
-Working in a cross-functional environment
-Willingness to learn & teach (mentoring)
-Courage to challenge others and to be challenged
-Self-introspection
-For Leads
-Build/develop the career path for your team
-Define a promotion strategy for your team members
-Show genuine interest in your time. Provide regular and constructive feedback.
-Delegate regularly and effectively.
-Hire top talents.
-How to build a development plan
+## How to build a development plan
 The career ladder and impact drivers should be the scaffolding to help you grow in your career as an Applied Scientist Lead. For the sake of clarity, we do not map each driver to each level. Each individual may find various ways of leveraging these drivers to unlock a given level. However, all these drivers are critical for an Applied Scientist Lead. In the end, we should be able to build a curriculum that helps everyone develop them. A lot of it comes from practice with more experienced colleagues (hence the focus on mentoring/coaching). But we should also provide resources such as internal and external training, reading lists, etc. 
 
 Each Applied Scientist should be able to self-introspect and build their own profile. This would help them identify their strengths and weaknesses, which would in turn help them build a plan with their manager to move from one level to the next.
