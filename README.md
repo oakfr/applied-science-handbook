@@ -30,7 +30,7 @@ Fasten your seat belt, and read on!
 - Growing people
     - [The Applied Scientist career ladder](growing-people/career-ladder.md)
     - [The Applied Scientist Lead career ladder](growing-people/career-ladder-lead.md)
-    - [Your first 90 as a lead](growing-people/first-90-days-lead.md)
+    - [Your first 90 days as a lead](growing-people/first-90-days-lead.md)
     - [On promotions](growing-people/on-promotions.md)
     - [On performance reviews](growing-people/performance-reviews.md)
     - [Rewarding your heroes](growing-people/rewarding-heroes.md)
