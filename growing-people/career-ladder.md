@@ -6,13 +6,10 @@ Everyone in their career is looking for a clear career path. Over the years, I d
 
 This path should help everyone answer questions such as : 
 
-    How am I doing at my current level? 
-
-    What is expected from me to move to the next level? What am I missing right now? 
-
-    Why did Alice get promoted and Bob did not? 
-
-    What steps should I take to progress in my career? 
+- How am I doing at my current level? 
+- What is expected from me to move to the next level? What am I missing right now? 
+- Why did Alice get promoted and Bob did not? 
+- What steps should I take to progress in my career? 
 
  
 
@@ -20,7 +17,7 @@ One of the core components of the career path revolves around mentoring and coac
 
  
 
-The career ladder 
+## The career ladder 
 
  
 
@@ -31,32 +28,13 @@ The gist of the career path is defined by the scale of your work, keeping in min
  
 
  
+Mission: Impact customers significantly and positively 
 	
 
-Position 
-	
-
-Scale of your ownership/impact 
-	
-
-Mission 
-
-S1 
-	
-
-Applied Scientist 
-	
-
-Solution that show value under supervision 
-	
-
- 
-
- 
-
-Impact customers significantly and positively 
- 
- 
+| Position | Title | Scale of your ownership/impact |
+| ---------| ------ | ------------------------ | 
+| S1       | Applied Scientist | Solution that show value under supervision |
+| ---------| ------ | ------------------------ | 
 
 S2 
 	
