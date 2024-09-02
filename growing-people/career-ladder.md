@@ -34,51 +34,13 @@ Mission: Impact customers significantly and positively
 | Position | Title | Scale of your ownership/impact |
 | ---------| ------ | ------------------------ | 
 | S1       | Applied Scientist | Solution that show value under supervision |
-| ---------| ------ | ------------------------ | 
+| S2  | Applied Scientist 2 | New solution end-to-end in full autonomy |
+| S3 | Senior Applied Scientist | Solution at the scale of a product |
+| S4 | Staff Applied Scientist | Solutions across multiple products |
+| S5 | Principal Applied Scientist | Solutions that change the company trajectory |
+| S6 | Staff Principal Applied Scientist | Solutions that change the direction of the field |
 
-S2 
-	
 
-Applied Scientist 2 
-	
-
-New solution end-to-end in full autonomy 
-
-S3 
-	
-
-Senior Applied Scientist 
-	
-
-Solution at the scale of a product 
-
-S4 
-	
-
-Staff Applied Scientist 
-	
-
-Solutions across multiple products 
-
-S5 
-	
-
-Principal Applied Scientist 
-	
-
-Solutions that change the company trajectory 
-
-S6 
-	
-
-Staff Principal Applied Scientist 
-	
-
-Solutions that change the direction of the field 
-
- 
-
- 
 
 S1.  At this stage, you build solutions that show value for the products. You require some level of supervision from more senior people around you. However, you can autonomously operate all the tools and processes of the applied scientist. You show deep interest in the impact on customers by looking at production monitoring and suggesting new ideas. The projects you work on go to production and move the needle on key metrics. You participate in the OKR definition. You actively seek a mentor from higher levels. 
 
@@ -104,21 +66,17 @@ S6. At this stage, you are a recognized leader in the field outside of the compa
 
  
 
-Core Impact Drivers 
+## Core Impact Drivers 
 
 The Applied Scientist role involves specific drivers that should translate into impact. Although we acknowledge possessing those drivers is a fundamental prerequisite for the role, we purposely value the impact that you have in the company as an applied scientist.  In this section we describe the main impact drivers that we can use to assess how well you are performing. Instead of mapping impact drivers to each level (like is being done in the matrix), we prefer to deep dive into each of them and explain how one can develop them. 
 
  
 
 Applied Scientists seek to excel at the following: 
-
-    Ability to conduct independent research 
-
-    Ability to work with others 
-
-    Experience delivering ML to production 
-
-    A strong appetite for product and customers 
+- Ability to conduct independent research 
+- Ability to work with others 
+- Experience delivering ML to production 
+- A strong appetite for product and customers 
 
  
 
@@ -130,7 +88,7 @@ From a practical perspective, here are the drivers that an Applied Scientist dev
 
  
 
-Technical Drivers 
+### Technical Drivers 
 	
 
 Research Drivers 
@@ -180,7 +138,7 @@ People Drivers
 
  
 
-How to build a development plan 
+## How to build a development plan 
 
 The career ladder and impact drivers should be the scaffolding to help you grow in your career as an applied scientist. For the sake of clarity, we do not map each driver to each level. Each individual may find various ways of leveraging these drivers to unlock a given level. However, all these drivers are critical for an Applied Scientist. In the end, we should be able to build a curriculum that helps everyone develop them. A lot of it comes from practice with more experienced colleagues (hence the focus on mentoring/coaching). But we should also provide resources such as internal and external training, reading lists, etc.  
 
@@ -190,30 +148,23 @@ Each Applied Scientist should be able to self-introspect and build their own pro
 
  
 
-How we define and measure impact 
+## How we define and measure impact 
 
-Good Applied Science = Impactful Applied Science: Effort is eventually materialised into an uplift in the Company North Star KPI and related metrics. 
-
- 
-
-Time to Impact matters: for each effort there is a time span until tangible impact is observed. If impact is not observed there is uncertainty by definition, and the value of the effort should be discounted accordingly. We propose the following categories: 
+**Good Applied Science = Impactful Applied Science**: Effort is eventually materialised into an uplift in the Company North Star KPI and related metrics. 
 
  
 
-    Impact was measured 
+**Time to Impact matters**: for each effort there is a time span until tangible impact is observed. If impact is not observed there is uncertainty by definition, and the value of the effort should be discounted accordingly. We propose the following categories: 
 
-    E.g.: successful AB test on a proposed improvement, experiment time reduction through ML, rescuing value at risk for a client through an ad-hoc effort 
+ 
+1. Impact was measured 
+- E.g.: successful AB test on a proposed improvement, experiment time reduction through ML, rescuing value at risk for a client through an ad-hoc effort 
+- Value: the measured impact 
 
-    Value: the measured impact 
+2. Impact to be measured soon 
+- E.g.: solution improvement in progress, offline results promising, preparing for A/B test 
+- Value: zero yet, just wait for measurement to earn credit 
 
-    Impact to be measured soon 
-
-    E.g.: solution improvement in progress, offline results promising, preparing for A/B test 
-
-    Value: zero yet, just wait for measurement to earn credit 
-
-    Impact not measurable soon 
-
-    E.g.: publish paper at a top conference, became go-to person for ML questions, team spirit behaviour, growth mindset, being autonomous (hence increasing effort capacity of the Applied Science team), etc. 
-
-    Value: the only thing we can do here is align between leads on the relative value of each of those efforts compared to the measured impact and be explicit about it. This is where we shape the incentives for applied scientists to decide where they want to put their effort. 
+3. Impact not measurable soon
+- E.g.: publish paper at a top conference, became go-to person for ML questions, team spirit behaviour, growth mindset, being autonomous (hence increasing effort capacity of the Applied Science team), etc. 
+- Value: the only thing we can do here is align between leads on the relative value of each of those efforts compared to the measured impact and be explicit about it. This is where we shape the incentives for applied scientists to decide where they want to put their effort. 
