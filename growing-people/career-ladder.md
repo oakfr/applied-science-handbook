@@ -90,8 +90,7 @@ From a practical perspective, here are the drivers that an Applied Scientist dev
 
 | Technical Drivers | Research Drivers |
 | ----------------- | ---------------- |
-| Computer vision <br> Machine learning <br> Statistics <br> Coding <br> | 
-Ability to conduct independent research (find & generate ideas) <br> Ability to explore (breadth & depth)<br> Presentation and writing <br> Structured thinking (how to split a problem into sub-problems) <br> |
+| Computer vision <br> Machine learning <br> Statistics <br> Coding <br> | Ability to conduct independent research (find & generate ideas) <br> Ability to explore (breadth & depth)<br> Presentation and writing <br> Structured thinking (how to split a problem into sub-problems) <br> |
 
 Product and Delivery 
 	
