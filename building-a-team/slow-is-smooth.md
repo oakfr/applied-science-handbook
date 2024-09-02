@@ -1,5 +1,8 @@
 # Slow is smooth, smooth is fast
 
+*“Early in my career as an engineer, I’d learned that all decisions were objective until the first line of code was written. After that, all decisions were emotional.”* Ben Horowitz, The Hard Thing About Hard Things 
+
+
 There is a well-known saying in the Navy SEALS which goes like this: slow is smooth, smooth is fast.  The first time I read this sentence, it did not make any sense to me.  Those who go to the Navy learn it quickly and the hard way.  The others (like me) also learn it, but much more slowly and over many years of experience. 
 
 
@@ -23,7 +26,3 @@ A few things you should be doing to make your team efficient:
 - Pair engineers and researchers to maintain a continuous alignment 
 - Use the same codebase for research and production 
 - Make things reproducible 
-
- 
-
-*“Early in my career as an engineer, I’d learned that all decisions were objective until the first line of code was written. After that, all decisions were emotional.”* Ben Horowitz, The Hard Thing About Hard Things 
