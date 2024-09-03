@@ -23,7 +23,7 @@ Fasten your seat belt, and read on!
     - [Spotting a great scientist in 3 minutes!](building-a-team/spotting-a-scientist.md)
     - [Hiring scientists](building-a-team/hiring.md)
     - [Slow is smooth, smooth is fast](building-a-team/slow-is-smooth.md)
-- Deliver for the Product
+- Delivering for the Product
     - [Making your company ML-centric](deliver-for-the-product/ml-centric.md)
     - [The seven pillars of Applied AI](deliver-for-the-product/seven-pillars.md)
     - [The six-week rule](deliver-for-the-product/six-week-rule.md)
