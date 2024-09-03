@@ -9,6 +9,7 @@ Here are a few tips that I found to work well to hire in the Applied AI space.
 ## Approach candidates yourself
 - A great recruiter is always useful, but great candidates will value being approached by a member of the team directly.
 - It takes one to get one. There is no recipe for finding great scientists.  As a scientist, you are best placed to find your peers.
+- The statistics are hard. You will approach 70 candidates for a single hire.  But this hire might transform your team.
 
 ## Train the recruiter by example
 - Good candidates come from all backgrounds. There is no recipe for recruiters to follow.
