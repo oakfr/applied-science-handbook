@@ -14,7 +14,7 @@ The gist of this chapter relies on two pillars: caring about what we do, and bui
 
  
 
-In the words of Richard Hamming in Learning to Learn, “Now I need to discuss science versus engineering. Science, if you are doing it, you shouldn't know what you're doing. If you know what you're doing, you shouldn't be doing it. Not in science, because science is supposed to be exploration. But you don't know. Engineering. You shouldn't be doing it unless you do know what you're doing. Well, nothing is pure. Science involves a great deal of engineering. And engineering involves a great deal of new material. So it's a great blend. But what is painful to you is going to be worse, is that these two fields are growing together because of a simple fact. Again, going back by first candy Bell Labs, when suddenly we discovered in physics. The telephone company was not in that greater hurry to get it developed it into the field, after all have pretty much monopoly, why hurry? Now as you know, we are not willing to wait for scientific principles to develop we want the field tomorrow. So two fields to come together like that.” 
+In the words of Richard Hamming in Learning to Learn, *“Now I need to discuss science versus engineering. Science, if you are doing it, you shouldn't know what you're doing. If you know what you're doing, you shouldn't be doing it. Not in science, because science is supposed to be exploration. But you don't know. Engineering. You shouldn't be doing it unless you do know what you're doing. Well, nothing is pure. Science involves a great deal of engineering. And engineering involves a great deal of new material. So it's a great blend. But what is painful to you is going to be worse, is that these two fields are growing together because of a simple fact. Again, going back by first candy Bell Labs, when suddenly we discovered in physics. The telephone company was not in that greater hurry to get it developed it into the field, after all have pretty much monopoly, why hurry? Now as you know, we are not willing to wait for scientific principles to develop we want the field tomorrow. So two fields to come together like that.”* 
 
  
 
@@ -100,27 +100,27 @@ The speech is full of insights.  Since it is quite long, I have extracted the ke
 
  
 
-Have courage and drive. “That is the characteristic of great scientists; they have courage. They will go forward under incredible circumstances; they think and continue to think [...] Great scientists have tremendous drive. Solid work, steadily applied, gets you surprisingly far.” 
+**Have courage and drive.** *“That is the characteristic of great scientists; they have courage. They will go forward under incredible circumstances; they think and continue to think [...] Great scientists have tremendous drive. Solid work, steadily applied, gets you surprisingly far.”* 
 
  
 
-Work on important problems.  “You should be asking yourself: What are the important problems in my field?  Now, on the definition of important problems. We didn't work on (1) time travel, (2) teleportation, and (3) antigravity. They are not important problems because we do not have an attack. It's not the consequence that makes a problem important, it is that you have a reasonable attack.” 
+**Work on important problems.**  *“You should be asking yourself: What are the important problems in my field?  Now, on the definition of important problems. We didn't work on (1) time travel, (2) teleportation, and (3) antigravity. They are not important problems because we do not have an attack. It's not the consequence that makes a problem important, it is that you have a reasonable attack.”* 
 
  
 
-Be emotionally involved. Seek contradictions. “Darwin writes in his autobiography that he found it necessary to write down every piece of evidence which appeared to contradict his beliefs because otherwise they would disappear from his mind.” You should only feel comfortable about your opinion if you can express your opponent’s opinion better than they do. 
+**Be emotionally involved. Seek contradictions.** *“Darwin writes in his autobiography that he found it necessary to write down every piece of evidence which appeared to contradict his beliefs because otherwise they would disappear from his mind.”* You should only feel comfortable about your opinion if you can express your opponent’s opinion better than they do. 
 
  
 
-Work with others. “The essence of science is cumulative.” Seek feedback and comments on your work. Do pair research. Build tools for the team. 
+**Work with others.** *“The essence of science is cumulative.”* Seek feedback and comments on your work. Do pair research. Build tools for the team. 
 
  
 
-Learn to work with the system. Don’t find alibis. "It is a poor workman who blames his tools - the good man gets on with the job, given what he's got, and gets the best answer he can."  Complaining about what does not work is a healthy thing. But we need to go one step further: don’t procrastinate on a task because the experience of it is poor. Fix the experience. Fix the process. 
+**Learn to work with the system.** Don’t find alibis. *"It is a poor workman who blames his tools - the good man gets on with the job, given what he's got, and gets the best answer he can."*  Complaining about what does not work is a healthy thing. But we need to go one step further: don’t procrastinate on a task because the experience of it is poor. Fix the experience. Fix the process. 
 
  
 
-Learn to sell your work. “I have now come down to a topic which is very distasteful; it is not sufficient to do a job, you have to sell it. [...] You have to learn to write clearly and well so that people will read it, you must learn to give reasonably formal talks, and you also must learn to give informal talks.”  I will extend this advice with How to speak, by Patrick Winston. 
+**Learn to sell your work.** *“I have now come down to a topic which is very distasteful; it is not sufficient to do a job, you have to sell it. [...] You have to learn to write clearly and well so that people will read it, you must learn to give reasonably formal talks, and you also must learn to give informal talks.”*  I will extend this advice with How to speak, by Patrick Winston. 
 
  
 
